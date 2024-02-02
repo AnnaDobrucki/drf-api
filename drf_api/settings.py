@@ -62,7 +62,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['localhost','django-rest-framework-dobrucki-531ba6a81825.herokuapp.com', '8000-annadobrucki-drfapi-uxe8w9eq0s6.ws-eu107.gitpod.io']
 
